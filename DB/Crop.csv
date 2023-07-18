@@ -1,0 +1,63 @@
+crop_id,crop,crop_,crop_category
+1,Otros,01 Otros,01 Otros
+2,Vides de mesa,02 Vides de mesa,04 Vides
+3,Chiles picosos,03 Chiles picosos,03 Hortalizas
+4,Tomates,04 Tomates,03 Hortalizas
+5,Banano,05 Banano,02 Frutales siempre verdes
+6,Zarzamoras,06 Zarzamoras,05 Berries
+7,Hortalizas,07 Hortalizas,03 Hortalizas
+8,Piña,08 Piña,02 Frutales siempre verdes
+9,Aguacates,09 Aguacates,02 Frutales siempre verdes
+10,Arroz,10 Arroz,06 Granos
+11,Algodón,11 Algodón,08 Industriales
+12,Maiz,12 Maiz,06 Granos
+13,Cerezos,13 Cerezos,10 Frutal caducifolio
+14,Papas,14 Papas,03 Hortalizas
+15,Fresas,15 Fresas,05 Berries
+16,Melones,16 Melones,09 Cucurbitácea
+17,Cítricos,17 Cítricos,02 Frutales siempre verdes
+18,Arándanos,18 Arándanos,05 Berries
+19,Café,19 Café,02 Frutales siempre verdes
+20,Pepinos,20 Pepinos,09 Cucurbitácea
+21,Papaya,21 Papaya,02 Frutales siempre verdes
+22,Flores de corte,22 Flores de corte,11 Ornamental
+23,Calabazas,23 Calabazas,09 Cucurbitácea
+24,Ajo y cebolla,24 Ajo y cebolla,03 Hortalizas
+25,Sandias,25 Sandias,09 Cucurbitácea
+26,Frambuesas,26 Frambuesas,05 Berries
+27,Mango,27 Mango,02 Frutales siempre verdes
+28,Caña de azúcar,28 Caña de azúcar,08 Industriales
+29,Trigos,29 Trigos,06 Granos
+30,Soyas,30 Soyas,08 Industriales
+31,kiwi,31 kiwi,10 Frutal caducifolio
+32,Agave,32 Agave,08 Industriales
+33,Esparrago,33 Esparrago,03 Hortalizas
+34,"Frijol, ejote, guisante","34 Frijol, ejote, guisante",51 Leguminosa
+35,Manzana,35 Manzana,10 Frutal caducifolio
+36,Pastura,36 Pastura,13 Forraje
+37,Nogal,38 Nogal,10 Frutal caducifolio
+38,Cacao,39 Cacao,02 Frutales siempre verdes
+39,Cucurbitaceas,40 Cucurbitaceas,09 Cucurbitácea
+40,Sorgos,44 Sorgos,13 Forraje
+41,Alfalfa,46 Alfalfa,13 Forraje
+42,Pimiento,47 Pimiento,03 Hortalizas
+43,Brassicas,49 Brassicas,03 Hortalizas
+44,Leguminosa,51 Leguminosa,51 Leguminosa
+45,Cebada,53 Cebada,06 Granos
+46,Ciruelas,54 Ciruelas,10 Frutal caducifolio
+47,Plátano,56 Plátano,02 Frutales siempre verdes
+48,Garbanzo,57 Garbanzo,06 Granos
+49,"Espinacas, lechugas y hortalizas verdes","58 Espinacas, lechugas y hortalizas verdes",03 Hortalizas
+50,Maracuya,59 Maracuya,02 Frutales siempre verdes
+51,Almendros,60 Almendros,10 Frutal caducifolio
+52,Avellano,60 Avellano,10 Frutal caducifolio
+53,Tabaco,61 Tabaco,-
+54,Zanahoria,62 Zanahoria,03 Hortalizas
+55,Cannabis,63 Cannabis,08 Industriales
+56,Pitaya,z Pitaya,-
+57,"ESPINACAS, LECHUGAS, HORTALIZAS","58 ESPINACAS, LECHUGAS, HORTALIZAS",03 Hortalizas
+58,NARANJA,17 NARANJA,02 Frutales siempre verdes
+59,LIMONES,17 LIMONES,02 Frutales siempre verdes
+60,"BRASSICAS (COLIFLOR, BROCOLI, COL)","64 BRASSICAS (COLIFLOR, BROCOLI, COL)",03 Hortalizas
+61,FRIJOL,34 FRIJOL,51 Leguminosa
+62,MANDARINAS,17 MANDARINAS,02 Frutales siempre verdes

@@ -1,0 +1,49 @@
+product_id,product,product_,formula,product_category,product_type
+1,01 Agromil Plus ReactMaxx,Agromil Plus ReactMaxx,APLS-21,01 Cito,H1
+2,02 Rooting SmartSelect,Rooting SmartSelect,ROOT-22 A1,02 Raíz/Suelo,H1
+3,03 AGREXABC,AGREXABC,AABC-22,Otro,H1
+4,04 Agromil V,Agromil V,AGR5-21,03 Bioestimulante,H1
+5,05 Juníperus StressOff,Juníperus StressOff,JUNP-22,03 Bioestimulante,H1
+6,06 AGREXRP,AGREXRP,ARP4-20,Otro,H1
+7,07 Rooting AdStrong,Rooting AdStrong,RADS-21,02 Raíz/Suelo,H1
+8,08 Vigofort Ultra ReactMaxx,Vigofort Ultra ReactMaxx,APLG-21,01 Cito,H1
+9,09 Aciggib AdStrong,Aciggib AdStrong,AC GL-22,05 GA,H1
+10,12 AGROFOSK,AGROFOSK, AFSK-13,Otro,Resto
+11,13 Rooting G,Rooting G, ROOG-21,02 Raíz/Suelo,H1
+12,15 LPG 456 - ReacMaxx,LPG 456 - ReacMaxx,LPG-21,01 Cito,H2
+13,16 AGROPLEXBMO,AGROPLEXBMO,ABMO-22,Otro,H1
+14,17 Querkus SmartSelect,Querkus SmartSelect,QUER-22,02 Raíz/Suelo,H2
+15,18 AGROMAX,AGROMAX,AGMA-21,Otro,H1
+16,19 AGROPLEXCa,AGROPLEXCa,  A CA-20,Otro,Resto
+17,20 AGREXE,AGREXE,AGE-21,Otro,H1
+18,21 AGROPLEXZn,AGROPLEXZn,AZN-20,Otro,Resto
+19,22 AV5G BioActive,AV5G BioActive,AV5G-22,03 Bioestimulante,H2
+20,23 Reserbion StressOff,Reserbion StressOff,RESB-21,Otro,H1
+21,24 Crezymax Bioactive,Crezymax Bioactive,CREZB-22,01 Cito,H2
+22,24 Crezymax ReactMaxx,Crezymax ReactMaxx,CREZ-16,01 Cito,H1
+23,27 Vigofort Basico StressOff,Vigofort Basico StressOff,VIGO-22,03 Bioestimulante,H1
+24,28 Sparce Xploid BioActive,Sparce Xploid BioActive,SPAX-19,Otro,H2
+25,29 DCS3+,DCS3+,DCS3-21,03 Bioestimulante,H2
+26,30 AgrexPH,AgrexPH,AGPH-18,Otro,Resto
+27,32 DAKUTEN,DAKUTEN,DAKU-19,Otro,Maquila
+28,33 Chestine,Chestine,CHES-19,Otro,Maquila
+29,34 FEUILLAJE CABO,FEUILLAJE CABO,FEUCA-21,03 Bioestimulante,H1
+30,35 EKBER,EKBER,EKBER-22,03 Bioestimulante,H2
+31,z BIOMKT AL,BIOMKT AL,MKTAL-22,03 Bioestimulante,H2
+32,z BIOMKT AM,BIOMKT AM,MKTAM-21,03 Bioestimulante,H2
+33,z BRT MAX,BRT MAX,BRT-22,01 Cito,H2
+34,z- BRX COLOR,BRX COLOR,BRXCO-21,03 Bioestimulante,H2
+35,z-FEUILLAJE OPTIM,OPTIM,FEUOP-21,03 Bioestimulante,H1
+36,z-IqKit Calidad,Calidad,IqKC-22,03 Bioestimulante,H2
+37,z-IqKit Estructural,Estructural,IqKE-22,01 Cito,H2
+38,04 Agromil V,Agromil V,AGR5-21,03 Bioestimulante,H1
+39,16 AGROPLEXBMO,AGROPLEXBMO,ABMO-22,03 Bioestimulante,H1
+40,z-IqKit Estructural,Estructural,IqKE-22,01 Cito,H2
+41,z-IqKit Calidad,Calidad,IqKC-22,03 Bioestimulante,H2
+42,24 Crezymax Bioactive,Crezymax Bioactive,CREZB-22,01 Cito,H2
+43,04 AGROMIL 5 ADSTRONG,AGROMIL 5 ADSTRONG,AGR5-21,03 Bioestimulante,H1
+44,z OTROS,OTROS,-,Otro,H1
+45,16 AGROPLEXBMO STRESSOFF,AGROPLEXBMO STRESSOFF,ABMO-22,Otro,H1
+46,z KIT-ESTRUCTURAL-IQC,KIT-ESTRUCTURAL-IQC,IqKE-22,01 Cito,H2
+47,z KIT-CALIDAD-IQC,KIT-CALIDAD-IQC,IqKC-22,03 Bioestimulante,H2
+48,24 SPROUD MAX,SPROUD MAX,CREZB-22,01 Cito,H2

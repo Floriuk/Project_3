@@ -1,0 +1,59 @@
+client_id,client,client_,region,enterprise
+1,01 Ditecosa,Ditecosa,01 Norte,México
+2,02 JF,JF,02 Pacífico,México
+3,03 Quinval,Quinval,01 Norte,México
+4,04 Dysea,Dysea,01 Norte,México
+5,05 Agrofortress,Agrofortress,06 Zona 1,CAC
+6,05 Ecologika,Ecologika,06 Zona 1,CAC
+7,05 Maxiagro GT,Maxiagro GT,06 Zona 1,CAC
+8,05 Maxiagro HN,Maxiagro HN,06 Zona 1,CAC
+9,05 Nicabacorp,Nicabacorp,06 Zona 1,CAC
+10,05 Sagrisa,Sagrisa,06 Zona 1,CAC
+11,06 AACSA,AACSA,02 Pacífico,México
+12,07 Fv,Fv,04 Sureste,México
+13,08 Agrícola Piscis,Agrícola Piscis,03 Zona 2,CAC
+14,09 GMT,GMT,08 Sud 1,SUD
+15,10 Drokasa,Drokasa,08 Sud 1,SUD
+16,11 Empresas Melo,Empresas Melo,03 Zona 2,CAC
+17,12 Propios,Propios,05 Propios,IqChem
+18,13 Hormonas,Hormonas,04 Sureste,México
+19,14 PromAgric,PromAgric,04 Sureste,México
+20,15 Ciba,Ciba,01 Norte,México
+21,16 Txao,Txao,05 REIQ,IqChem
+22,17 Tekquimik,Tekquimik,"10 Ecu,Col",Intnl
+23,18 Tattersal,Tattersal,08 Sud 1,SUD
+24,19 Agrica,Agrica,"10 Ecu,Col",Intnl
+25,20 Priviet,Priviet,04 Sureste,México
+26,21 Agroinsumos el campo,Agroinsumos el campo,04 Sureste,México
+27,22 FormaQ,FormaQ,02 Pacífico,México
+28,23 Agroasa,Agroasa,03 Zona 2,CAC
+29,24 Heraclio Medina,Heraclio Medina,02 Pacífico,México
+30,25 AgroE,AgroE,05 REIQ,IqChem
+31,26 MGRE,MGRE,04 Sureste,México
+32,27 Bioscience,Bioscience,08 Sud 1,SUD
+33,28 DAgrosol,DAgrosol,01 Norte,México
+34,31 Gannet,Gannet,02 Pacífico,México
+35,32 ICAS,ICAS,01 Norte,México
+36,33 Doris,Doris,"10 Ecu,Col",Intnl
+37,34 Agrofuturo,Agrofuturo,08 Sud 1,SUD
+38,35 Fitoro,Fitoro,05 Propios,IqChem
+39,36 Aurelio,Aurelio,01 Norte,México
+40,37 ADelta,ADelta,01 Norte,México
+41,38 DaPeninsula,DaPeninsula,04 Sureste,México
+42,39 Serco Verde,Serco Verde,04 Sureste,México
+43,40 Agrovet,Agrovet,04 Sureste,México
+44,41 Fumyagro,Fumyagro,04 Sureste,México
+45,42 Silvano,Silvano,04 Sureste,México
+46,43 Cerro Grande,Cerro Grande,08 Sud 1,SUD
+47,44 CLG,CLG,04 Sureste,México
+48,45 Toqui,Toqui,08 Sud 1,SUD
+49,47 Duarte,Duarte,10 EUA,Intnl
+50,49 AG TECH,AG TECH,10 EUA,Intnl
+51,z Interoc,Interoc,08 Sud 1,SUD
+52,z TQC,TQC,08 Sud 1,SUD
+53,z-Mencer,MENCER,-,-
+54,05 WOLVERAGRO,WOLVERAGRO,06 Zona 1,CAC
+55,05 MAXIAGRO,MAXIAGRO,06 Zona 1,CAC
+56,05 GT,GT,06 Zona 1,CAC
+57,z AGRIENZYMES,AGRIENZYMES,10 EUA,Intnl
+58,z MENCER,MENCER,10 EUA,Intnl
